@@ -1,4 +1,4 @@
-package org.wsd.application;
+package org.wsd.domain;
 
 public class User {
 }

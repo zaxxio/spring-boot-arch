@@ -21,6 +21,11 @@
     <dependencies>
         <dependency>
             <groupId>org.wsd</groupId>
+            <artifactId>infrastructure</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.wsd</groupId>
             <artifactId>web</artifactId>
             <version>0.0.1</version>
         </dependency>
