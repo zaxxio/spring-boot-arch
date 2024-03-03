@@ -21,8 +21,8 @@
         </processorPath>
         <module name="application" />
         <module name="web" />
-        <module name="infrastructure" />
         <module name="service" />
+        <module name="infrastructure" />
         <module name="domain" />
       </profile>
     </annotationProcessing>
